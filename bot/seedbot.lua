@@ -236,20 +236,17 @@ https://github.com/MehDi-Fateme/Anti-Spam
 
 Our team!
 MehDi OKTAY (mehdioktay)
-MehDi OKTAY (mehdioktay)
-MehDi OKTAY (mehdioktay)
-MehDi OKTAY (mehdioktay)
-MehDi OKTAY (mehdioktay)
+Amir Sardar Sharr
 
 Special thanks to:
-Ali OKTAY
-Sezar OKTAY
-Lord OKTAY
-Amir sardar sharr
+MehDi OKTAY (Developer)
+Ali OKTAY (Developer)
+Sezar OKTAY (Deveoper)
+Lord OKTAY (Desinger)
+Amir sardar sharr (Founder)
 
 Our channels:
 English: @HACKDIFFERENT
-Persian: @BotTG_Channel
 ]],
     help_text_realm = [[
 Realm Commands:
