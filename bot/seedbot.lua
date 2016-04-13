@@ -233,9 +233,11 @@ function create_config( )
 An advance Administration bot based on yagop/telegram-bot 
 
 https://github.com/*****/*****
+sudo : MehDi OKTAY
+sudo : Amir Sradar Sharr
 
 Our team!
-MehDi OKTAY (mehdioktay)
+MehDi OKTAY 
 Amir Sardar Sharr
 
 Special thanks to:
@@ -246,7 +248,8 @@ Lord OKTAY (Desinger)
 Amir sardar sharr (Founder)
 
 Our channels:
-English: @HACKDIFFERENT
+ @HACKDIFFERENT
+ @allies_team
 ]],
     help_text_realm = [[
 Realm Commands:
