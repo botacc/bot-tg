@@ -229,8 +229,8 @@ function create_config( )
     sudo_users = {183429498,178222792},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[KinG Bot - Private source
+
 
 https://github.com/*****/*****
 sudo : MehDi OKTAY
@@ -240,16 +240,16 @@ Our team!
 MehDi OKTAY 
 Amir Sardar Sharr
 
+Bot Creator : MehDi OKTAY Special Thanks to Amir Sardar Sharr
+
 Special thanks to:
-MehDi OKTAY (Developer)
 Ali OKTAY (Developer)
 Sezar OKTAY (Deveoper)
 Lord OKTAY (Desinger)
-Amir sardar sharr (Founder)
 
 Our channels:
- @HACKDIFFERENT
- @allies_team
+ https://telegram.me/HacKDifferent
+ https://telegram.me/allies_team
 ]],
     help_text_realm = [[
 Realm Commands:
